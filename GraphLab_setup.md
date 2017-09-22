@@ -18,6 +18,7 @@ pip install graphlab-create
 
 ```bash 
 export GRAPHLAB_KEY=1234
+
 mkdir -p ~/.graphlab && echo -e "[Product]\nproduct_key=${GRAPHLAB_KEY}" > ~/.graphlab/config \
 && echo "Configuration file written" || echo "Configuration file not written"
 ```
