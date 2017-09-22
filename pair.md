@@ -32,7 +32,7 @@ post your score to slack. The `src/slack_poster.py` file takes a _properly
 formatted_ file of recommendations (see `data/sample_submission.csv` for an 
 example) and reports your score to Slack. Use the URL in `src/config.yaml` for 
 the URL that `slack_poster` will prompt you for, and use a gschool channel to 
-post results to, **prefacing the channel with a `#` when you are promted 
+post results to, **prefacing the channel with a `#` when you are prompted 
 (i.e. #dsi)**. Test it out with the following command:
     
 ```bash
