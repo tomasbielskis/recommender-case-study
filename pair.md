@@ -24,7 +24,7 @@ Next, make sure that you are able to post your score to Slack. To begin, you'll
 need to pip install the `performortron` library: 
 
 ```bash 
-pip install git+https://github.com/zipfian/performotron.git --upgrade
+pip install git+https://github.com/gschool/dsi-performotron.git --upgrade
 ```
 
 After that, you should be able to use the `src/slack_poster.py` file to 
