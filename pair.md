@@ -11,7 +11,7 @@ data in `data/ratings.dat`. Your goal is to build a recommendation system
 and to suggest jokes to users! Your score will be measured based off of how well 
 you predict the top-rated jokes for the users' ratings in our test set. 
 
-Note that we will be using [GraphLab](https://dato.com/) to build our 
+Note that we will be using [GraphLab](https://turi.com/) to build our 
 recommendation system. If you don't already have it installed, follow the 
 directions in [GraphLab_setup.md](GraphLab_setup.md).
 
